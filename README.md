@@ -1,4 +1,6 @@
-# K3s is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
+# K3s Setup
+
+## K3s is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
 ## 1. **Set up K3s Cluster**
 
