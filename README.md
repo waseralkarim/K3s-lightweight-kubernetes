@@ -4,7 +4,7 @@ K3s is a highly available, certified Kubernetes distribution designed for produc
 
 <img width="1182" height="681" alt="image" src="https://github.com/user-attachments/assets/9fe39896-0fb3-4d7a-83b7-3929a8db3580" />
 
-## 1. **Set up K3s Cluster**
+## **Set up K3s Cluster**
 
 ### On the **Master Node**
 
