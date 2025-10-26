@@ -27,3 +27,8 @@ helm install ingress-nginx ingress-nginx/ingress-nginx \
 ```
 
 This will deploy the NGINX ingress controller in your cluster.
+
+Run this if you get k3s export error:
+```bash
+export KUBECONFIG=/etc/rancher/k3s/k3s.yaml
+```
